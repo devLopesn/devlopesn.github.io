@@ -407,6 +407,7 @@ footer{
 background: linear-gradient(90deg, rgba(24,21,36,1) 0%, rgba(37,31,67,1) 35%, rgba(5,4,13,1) 100%);
 opacity: 0.7;
     margin-top: 450px;
+    border-radius: 0px 0px 30px 30px;
 }
 
 .blocos{
