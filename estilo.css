@@ -666,6 +666,10 @@ opacity: 0.7;
     color: #c0c0c0;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 body.home #ul-list li#home{
     transition:ease-in-out 0.7s;
     border-bottom: 3px solid #7841f7;
