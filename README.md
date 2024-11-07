@@ -1,6 +1,4 @@
-Olá, a todos!
+Olá, internautas!
 
-Recentemente comecei um projeto pessoal para apresentar como portfólio!
-Nesse projeto, contem algumas configurações basica em HTML/CSS/JS.
-No momento ele não se encontra responsivel, mas ao passar dos dias irei atualizando,
-e adicionando novas funções, pretendo integrar um gateway de pagamentos para deixar mais comovente.
+Criei este projeto para treinar meus conhecimentos em FRONT-END.
+Não sei mexer muito com responsividade, mas, ao longo do tempo eu estárei deixando ele com responsividade total.
