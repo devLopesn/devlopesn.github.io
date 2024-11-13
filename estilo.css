@@ -20,19 +20,20 @@ body{
 
 
 #header-bar{
-    width: 100%;
+    width: 84rem;
     height: 80px;
     background: rgb(24,21,36);
-background: linear-gradient(90deg, rgba(24,21,36,1) 0%, rgba(37,31,67,1) 35%, rgba(5,4,13,1) 100%);
+    background: linear-gradient(90deg, rgba(24,21,36,1) 0%, rgba(37,31,67,1) 35%, rgba(5,4,13,1) 100%);
     color: #fff;
     font-family:" Roboto";
     font-size: 12px;
     border-bottom: 1px solid rgb(244, 241, 255) 0%, rgb(240, 240, 240) 35%, rgba(5,4,13,1) 100%;
-
+    margin-left: 5px;
+    box-shadow: 3px 16px solid #fff;
 }
 .bg-section{
-    width: 100%;
-    height: 105vh;
+    width: 83rem;
+    height: 60rem;
     background-color: #110d25;
     margin-top: 25px;
     
@@ -46,17 +47,17 @@ background: linear-gradient(90deg, rgba(24,21,36,1) 0%, rgba(37,31,67,1) 35%, rg
 }
 
 .pagamentos-bg{
-    width: 100%;
-    height: 120vh;
+    width: 84rem;
+    height: 64rem;
     background-color: #0a0718;
-    margin-top: 15px;
+    margin-top: 22rem;
 }
 #ul-list{
     
     margin-top: -55px;
     list-style: none;
     padding: 0 90px 0;
-    margin-left: 690px;
+    margin-left: 25rem;
     
 }
 .li-list{
@@ -101,7 +102,7 @@ background: linear-gradient(90deg, rgba(24,21,36,1) 0%, rgba(37,31,67,1) 35%, rg
     position: absolute;
     top: 50px;
     left: 50px;
-    transform: translate(45%, 90%);
+    transform: translate(18%, 90%);
     font-weight: 900;
     
     
@@ -302,18 +303,19 @@ strong:hover{
 
 #botao{
     border-radius: px;
-    margin-left: 130px;
-    margin-top: 80px;
+    margin-left: -8rem;
+    margin-top: 16rem;
     border: none;
     padding: 12px 90px 12px;
     background: none;
     color: #fff;
     font-family: "Roboto";
     background-color:#6f6397;
-    border-bottom: 5px solid #554b8a;
+    border-bottom: 5px solid #59548a;
     transition: .7s;
     cursor: pointer;
     font-size: 18px;
+    border-radius:  9px 20px;
 }
 
 #botao:hover{
@@ -401,13 +403,13 @@ footer{
 }
 
 .bgbg{
-    width: 100%;
-    height: 871px;
+    width: 84em;
+    height: 35rem;
     background: rgb(24,21,36);
-background: linear-gradient(90deg, rgba(24,21,36,1) 0%, rgba(37,31,67,1) 35%, rgba(5,4,13,1) 100%);
-opacity: 0.7;
+    background: linear-gradient(90deg, rgba(24,21,36,1) 0%, rgba(37,31,67,1) 35%, rgba(5,4,13,1) 100%);
+    opacity: 0.7;
     margin-top: 450px;
-    border-radius: 0px 0px 30px 30px;
+    
 }
 
 .blocos{
@@ -424,7 +426,7 @@ opacity: 0.7;
     height: 410px;
     background-color:#0c091b;
     border-radius: 4px 150px;
-    margin-left: 180px;
+    margin-left: 9rem;
     border-bottom: 1px solid #024fb4;
     border-top: 1px solid #03459b;
     border-left: 1px solid #00132c;
@@ -448,12 +450,12 @@ opacity: 0.7;
 
 
 .bloco-avaliacoes{
-    width: 80vw;
+    width: 67rem;
     height: 280px;
     background-color:#0c091b;
     border-radius: 4px 150px;
-    margin-left: 180px;
-    margin-top: 50px;
+    margin-left: 10rem;
+    margin-top: 4rem;
     border-bottom: 1px solid #024fb4;
     border-top: 1px solid #03459b;
     border-left: 1px solid #00132c;
@@ -537,7 +539,7 @@ opacity: 0.7;
     padding: 20px;
     transition: 0.3s;
     margin-top: -20px;
-    margin-left: 210px;
+    margin-left: 7rem;
     border-radius: 9px;
     float: left;
     
@@ -647,8 +649,8 @@ opacity: 0.7;
 
 #avaliacoes{
     padding:15px 120px;
-    margin-left:620px;
-    margin-top: 35px;
+    margin-left:24rem;
+    margin-top: 25rem;
     background-color: #140f2c;
     border: none;
     color: rgb(156 163 175);
