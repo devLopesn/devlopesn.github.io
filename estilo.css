@@ -93,6 +93,10 @@ body{
     
 }
 .col-title{
+    display: flex
+    flex-direction:column;
+    justify-content: center
+    alight-items: center;
     font-family: "Roboto";
     color: #fff;
     letter-spacing: 2px;
