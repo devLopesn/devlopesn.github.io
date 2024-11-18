@@ -96,13 +96,10 @@ body{
     display: flex
     flex-direction:column;
     justify-content: center
-    alight-items: center;
     font-family: "Roboto";
     color: #fff;
     letter-spacing: 2px;
     position: absolute;
-    top: 50px;
-    left: 50px;
     transform: translate(18%, 90%);
     font-weight: 900;
     
